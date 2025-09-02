@@ -1,0 +1,15 @@
+h1{
+  color: rgb(0, 32, 139);
+}
+tr>td, th{
+  padding-left:5px;
+}
+tr>td:nth-child(2){
+  border-left:1px solid black;
+}
+.web-head{
+  border:2px solid black;
+}
+.web-body{
+  border: 1px solid black;
+}
